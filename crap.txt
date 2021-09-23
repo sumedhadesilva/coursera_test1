@@ -1,0 +1,262 @@
+825076620705
+825076620736
+
+825076620750
+825076620774
+825076620781
+
+
+
+order
+7905912
+7906063
+set @startdate='2021-09-12' 
+set @enddate  ='2021-09-18' 
+
+AABB no laert continue good address
+AAN1  looking for aprtment number  , can continue
+
+WKim@aerosoles.com
+825076452344
+825076452375
+JXLU7431139
+7562315 
+7720176
+09/14
+ZIMU3013720 - 7751   97751-done-received              
+ZIMU3050370 - 7751   97752 -done-recived
+
+as2-svr1-qrg.vorrochoice.com             10443
+as2-svr1-qrg.vorrochoice.com
+as2-svr1-qrg.vorrochoice.com
+http://edi.aerosoles.com
+to- ZUAS2prod
+https://www.honorhealth.com/company/leadership
+
+
+09/15
+TGBU2607299 - 7751    done
+TRHU2803211 - 7751   97753
+
+09/16
+ZIMU1349871 -7751    97754  
+
+
+1052723CAMERA543
+----09/16
+ZCSU7671166  7735  1052250 la-olovia 728  m 9       
+JXLU7431139-9  7746  1052386  over drive 492 m7   97746  -943
+1052414,15,16'
+JXLU7431139    97746          
+
+ZCSU7671166    97735 la-olivia 728 m 9 12 pairs 18
+1052250
+la-olivia 155    m 9 18 pairs
+
+-----------------------------
+ZIMU3013720
+
+zcsu2638289
+jxlu7822278 
+zimu1296679
+tghu5205021 
+
+TOFFEE VEGAN-248,
+C:\work\IBM Developer\orm_1.html
+
+AMERICAN EXCHANGE
+1450 Broadway, 4th Floor
+ATTN: Shelley Xiao
+new york  NY  10018
+297-14537342
+TCNU5938454
+902998410000-5
+7739
+7871412
+3950590427328
+set @startdate='2021-08-29' 
+set @enddate  ='2021-09-04' 
+3950590427328
+902998410000-5
+32567656532   02
+32567787604
+3968011960512  order
+
+3950590427328
+TLLU4862571	7740	KSCM031489	234	06/07/21	08/16/21
+TLLU4862571	7740	KSCM031489	144	06/07/21	08/16/21
+TLLU4862571	7740	KSCM031489	372	06/07/21	08/16/21
+TLLU4862571	7740	KSCM031489	252	05/10/21	08/16/21
+ZIMU1261950	7740	KSCM031489	246	05/10/21	08/16/21
+       P. O. Box 856654
+  12
+
+                                                            Minneapolis, MN  55485-6654
+https://sds-test01.s3.us-east.cloud-object-storage.appdomain.cloud/undefinedsubtitle%20(3).txt
+
+
+set @startdate='2021-08-08' 
+set @enddate  ='2021-08-14' 
+TLLU4862571
+WAC cost calculated for style     ‘LA-CAMERA’   2 colours (794 and 799)  incorrect , please  sql the wac_cost in style master .
+
+I am in the process of checking how wac calculated was not correct.  But want to fix the data ASAP to mitigate the error.  I assume you are taking previous wac from style master. WAC_cost field.
+select wac_cost ,* from [BCAEROBI].[dataaepr].dbo.zzxscolr where style='LA-CAMERA'  
+
+Please update  the wac_cost
+
+update the wac_cost to 27.76
+
+update [BCAEROBI].[dataaepr].dbo.zzxscolr     set wac_cost=27.76   where style='LA-CAMERA'   and color_code in ('794','799')  and dimension ='M'     
+see the attach document
+
+1) Click "Service Catalog" on the top black menu.
+2) On the page that loads under the "Categories" column on the left-hand side of the page click the option for  "BlueCherry".
+3) Click on the box on the right-hand side of the page named, "Custom SQL".
+4) Fill in the corresponding information on this form.
+5) Submit this RTM by clicking "Order Now".
+CS12802211
+GOLD VEGAN RAFFIA-699
+MULTI VEGAN RAFFIA-963
+
+
+Please advise the RTM number once submitted  so we can close this ticket, as all work will continue under the RTM ticket.
+
+
+=CONCATENATE(TRIM(B2),TRIM(C2))
+=MATCH($K2,$R$2:$R$2257,0)
+
+=INDEX($S$2:$S$2257,$L2)
+=INDEX($T$2:$T$2257,$L2)
+
+
+561379|560014|560354|561251
+|561489|336238|393739|560999
+|561486|561483|373079  runninh
+
+EXNULAO4753227
+PROD_NUM	PROD_TYPE	SHIPTO	STYLE_NAME	COLOR_CODE	SFCCOLORNAME	DIMENSION	CNTR_SEQ	SHIPMENT_NUM	SFSSHPM_REF	QTY	DUE_DATE
+1052616	DOT	05	DADA	001	BLACK	M	TCNU5938454	7739	KSCM031668	360	08/06/21
+1052616	DOT	05	DADA	125	OFF WHITE	M	TCNU5938454	7739	KSCM031668	156	08/06/21
+1052616	DOT	05	DADA	962	SOFT GOLD PU	M	TCNU5938454	7739	KSCM031668	156	08/06/21
+1052617	DIR	01	DADA	001	BLACK	M	TCNU5938454	7739	KSCM031668	360	08/06/21
+1052617	DIR	01	DADA	125	OFF WHITE	M	TCNU5938454	7739	KSCM031668	156	08/06/21
+1052617	DIR	01	DADA	962	SOFT GOLD PU	M	TCNU5938454	7739	KSCM031668	156	08/06/21
+
+TCNU5938454
+
+
+P.O. 1052250
+ LA OLIVIA 421 (green).
+5 = 6p
+5.5 = 6p
+6 = 17p
+6.5 = 24p      yes 6 apirs
+7 = 48p
+7.5 =48p
+8 = 66p          yes 12 pairs
+8.5 = 48p
+9 = 48p
+9.5 = 30p
+10 = 36p
+10.5 = 12p
+11 = 24p             yes 12 pairs
+12 = 18p
+
+LA OLIVIA 155 (white)
+8.5 = 18p
+9 = 18p--yes
+
+P.O. 1052243--yes
+LA HAYLEE 794 M 9.5 = 6p
+
+P.O. 1052245---no
+LA KATLEEN 633 m 6 = 11p
+
+P.O. 1052338----no
+ZIRAH 181 W 8.5 = 6p
+this is over receiving 2 lines
+HDR|EXETER|ZZ|000018599|100|01|||||||0000006|A|01||1052250|825076400512||ZCSU7671166|19|07/30/2021|||01|
+HDR|EXETER|ZZ|000018602|100|01|||||||0000006|A|01||1052250|825076400420||ZCSU7671166|19|07/30/2021|||01|
+only 6 apirs short , recevied 12
+HDR|EXETER|ZZ|000018605|100|01|||||||0000012|A|01||1052250|825076400451||ZCSU7671166|19|07/30/2021|||01|
+
+
+
+
+
+HDR|EXETER|ZZ|000018582|100|01|||||||0000018|A|01||1052250|825076400192||ZCSU7671166|17|07/30/2021|||01|
+HDR|EXETER|ZZ|000018599|100|01|||||||0000006|A|01||1052250|825076400512|ZCSU7671166|19|07/30/2021|||01|
+HDR|EXETER|ZZ|000018602|100|01|||||||0000006|A|01||1052250|825076400420||ZCSU7671166|19|07/30/2021|||01|
+HDR|EXETER|ZZ|000018605|100|01|||||||0000012|A|01||1052250|825076400451||ZCSU7671166|19|07/30/2021|||01|
+HDR|EXETER|ZZ|000019442|100|01|||||||0000006|A|01||1052336|825076438867||ZCSU7671633|13|07/30/2021|||01|
+HDR|EXETER|ZZ|000019559|100|01|||||||0000018|A|01||1052423|825076465764||ZCSU7671166|3|07/30/2021|||01|
+
+
+
+C:\test\A_180\test_original_excel.xlsx
+ActiveWorkbook.RefreshAll
+Workbooks.Open Filename:="C:\Users\RadheRadhe\Desktop\Javak & Hopper.xlsm", Password:="crushergrit"
+Application.Wait Now + TimeValue("00:00:02")
+Workbooks.Open Filename:="C:\Users\RadheRadhe\OneDrive\Dashboard.xlsx"
+Interaction.SendKeys "^%{F5}"
+ActiveWorkbook.RefreshAll
+Interaction.SendKeys ("^%{F5}")
+Application.Wait Now + TimeValue("00:00:05")
+Workbooks("Javak & Hopper.xlsm").Save
+Workbooks("Javak & Hopper.xlsm").Close
+Workbooks("Dashboard.xlsx").Save
+Workbooks("Dashboard.xlsx").Close
+ActiveWorkbook.Save 
+
+
+
+592  BLUSH SUEDE
+
+561483
+shoe carnival  2079900606986      061209756
+
+561486
+sacks dda-  0009612001157           rt  041203824
+
+ZCSU7671166
+
+LIGHT BLUE GINGHAM-886
+PINK GINGHAM-888
+
+
+ZCSU7671633
+
+BELLE BELLE
+
+ZCSU7669600
+18332670
+18333176
+18335181
+18336032
+18342823
+WHITE VEGAN-149
+WHITE VEGAN FAUX SUEDE-156
+WHITE VEGAN MESH-166
+---
+'saralaakso@yahoo.com',
+'rjm2003star@gmail.com',
+'gonzales.denis22@gmail.com',
+'yaaale@gmail.com',
+'roxmjoz@gmail.com',
+'grant.dorris@gmail.com',
+'kac443@gmail.com',
+'karenannhairston@bellsouth.net',
+'selam.teruneh@gmail.com',
+'ruby.b.lim@gmail.com',
+'susanmgregory67@yahoo.com',
+'amrhein11@icloud.com',
+'ikat48@gmail.com',
+'guy.tomer14@gmail.com',
+'dabinchoi1001@gmail.com',
+'lole1702@gmail.com',
+'msleannecox@gmail.com'
+
+
+
+
